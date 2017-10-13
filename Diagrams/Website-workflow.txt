@@ -1,5 +1,5 @@
 Reflexa NL eCom shop:
-- current shop address: www.reflexa-sokken.nl
+- current shop address: http://www.reflexa-sokken.nl
 - no redisgn for now, we use current template from the current shop
 - customers:
 	* regular users (pedicures, shoe stores, etc)
@@ -22,7 +22,11 @@ Reflexa NL eCom shop:
 		# Worker pickups items from warehouse with iWare scanner
 		# delivery the items to delivery zone(odpremna cona), he will also add barcode  sticker to item during pick and the sticker for the box
 		# when box arrives to delivery zone, workers scans the box code out of PA/iWare and is connected to e-com shop and has the ability to print the receipt and delivery list or maybe even directly prints them
-	
+	* 
+		
+- Others:
+	* SSL certificate for better search engines listings
+	* GA for analytics
 	
 Marjan:
 	* Delivery from Koèevje (Marjan will discuss with Robert how this will be done)
